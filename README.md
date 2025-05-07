@@ -29,11 +29,11 @@ I'm a full-stack developer who is keen to get stuck into projects involving UX d
 ### 📫 How to reach me...
 
 <div display="flex">
-  <a href="https://www.linkedin.com/in/codewithbernard/">
+  <a href="https://linkedin.com/in/laura-davies-36199119a/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/LauraDevX/lauradevx.github.io">
-    <img src="https://img.shields.io/badge/github-%231DA1F2.svg?style=for-the-badge&logo=github&logoColor=white" alt="Twitter"/>
+  <a href="https://lauradevx.github.io/my-portfolio">
+    <img src="https://img.shields.io/badge/github-%231DA1F2.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages Portfolio"/>
   </a>
 </div>
 
