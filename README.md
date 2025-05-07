@@ -2,7 +2,7 @@
 
 I'm a full-stack developer who is keen to get stuck into projects involving UX design, web development and software development.
 
-### ❤️ I love working with
+### ❤️ I love working with...
 
 <div display="flex">
   <img src="https://img.shields.io/badge/-figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" alt="JavaScript"/>
