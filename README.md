@@ -1,6 +1,6 @@
-## Hi there! 👋
+## Hi there, I'm Laura! 👋
 
-I'm a full-stack developer who is keen to get stuck into projects involving UX design, web development and software development.
+I'm a junior UX designer who loves to turn big ideas into thoughtful and creative designs. Watch me get stuck into projects involving UX design, web development and software development.
 
 ### ❤️ I love working with...
 
@@ -13,41 +13,27 @@ I'm a full-stack developer who is keen to get stuck into projects involving UX d
   <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React"/>
 </div>
 
-### 🛠️ I’m working on...
+### 🛠️ I’ve worked on...
 
-- Academic projects in AI and Web Development modules 
+- Academic projects in AI and Web Development modules
 - Personal projects to practice applying usability principles and the latest software development practices 
 
 ### 🌱 I’m learning...
 
 <div display="flex">
-  <img src="https://img.shields.io/badge/angular-0F0F11?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/wordpress-21759B?style=for-the-badge&logo=angular&logoColor=white" alt="WordPress"/>
+  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=pandas&logoColor=white" alt="jQuery"/>
+  <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=typescript&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/sketch-F7B500?style=for-the-badge&logo=typescript&logoColor=white" alt="Sketch"/>
 </div>
 
 ### 📫 How to reach me...
 
 <div display="flex">
-  <a href="https://linkedin.com/in/laura-davies-36199119a/">
+  <a href="https://linkedin.com/in/laura-e-davies/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://lauradevx.github.io/my-portfolio">
     <img src="https://img.shields.io/badge/github-%231DA1F2.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages Portfolio"/>
   </a>
 </div>
-
-<!--
-**LauraDevX/lauradevx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
