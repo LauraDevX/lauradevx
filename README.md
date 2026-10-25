@@ -30,10 +30,10 @@ I'm a junior UX designer who loves to turn big ideas into thoughtful and creativ
 ### 📫 How to reach me...
 
 <div display="flex">
-  <a href="https://linkedin.com/in/laura-e-davies/">
+  <a href="https://linkedin.com/in/laura-e-davies/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://lauradevx.github.io/my-portfolio">
+  <a href="https://lauradevx.github.io/my-portfolio" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/github-%231DA1F2.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages Portfolio"/>
   </a>
 </div>
