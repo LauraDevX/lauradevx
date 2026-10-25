@@ -6,7 +6,7 @@ I'm a junior UX designer who loves to turn big ideas into thoughtful and creativ
 
 <div display="flex">
   <img src="https://img.shields.io/badge/-figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/-javascript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/-javascript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/-nodedotjs-5FA04E?logo=nodedotjs&logoColor=white&style=for-the-badge" alt="Node.js"/>
   <img src="https://img.shields.io/badge/-python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python"/>
   <img src="https://img.shields.io/badge/-postgresql-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL"/>
@@ -21,10 +21,10 @@ I'm a junior UX designer who loves to turn big ideas into thoughtful and creativ
 ### 🌱 I’m learning...
 
 <div display="flex">
-  <img src="https://img.shields.io/badge/wordpress-21759B?style=for-the-badge&logo=angular&logoColor=white" alt="WordPress"/>
-  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=pandas&logoColor=white" alt="jQuery"/>
-  <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=typescript&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/sketch-F7B500?style=for-the-badge&logo=typescript&logoColor=white" alt="Sketch"/>
+  <img src="https://img.shields.io/badge/wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
+  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/>
+  <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=black" alt="Sketch"/>
 </div>
 
 ### 📫 How to reach me...
